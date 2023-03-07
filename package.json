@@ -1,0 +1,19 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenda70904/image-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenda70904/image-lambda/issues"
+  },
+  "homepage": "https://github.com/brenda70904/image-lambda#readme"
+}
